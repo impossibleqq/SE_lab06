@@ -1,6 +1,5 @@
 /*!
-@file
-@brief Файл с описанием методов класса Complex
+Zdes' tozhe riba zavernuta
 */
 
 #include <iostream>
