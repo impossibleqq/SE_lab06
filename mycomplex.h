@@ -1,6 +1,5 @@
 /*!
-@file
-@brief Заголовочный файл класса Complex
+RIIIBA
 */
 #ifndef _MY_COMPLEX_H_
 #define _MY_COMPLEX_H_
