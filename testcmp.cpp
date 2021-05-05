@@ -1,3 +1,4 @@
+/*Zdes riba zavernuta*/
 #include <iostream>
 
 #include "mycomplex.h"
